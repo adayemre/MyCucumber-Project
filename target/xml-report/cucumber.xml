@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="9.407">
+    <testcase classname="grid_feature" name="TC_01_Testing_On_Chrome" time="9.262">
+        <system-out><![CDATA[Given user is on the application_url with chrome............................passed
+Then verify the title of the page is GMIBANK................................passed
+Then close the remote driver................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
